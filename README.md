@@ -41,12 +41,15 @@ Forecast future market trends to inform strategic decision-making.
 **Descriptive Analytics:**
 Summarize historical sales data to understand past performance.
 Calculate key performance indicators (KPIs) like sales revenue, gross margin, and customer retention rate.
+
 **Diagnostic Analytics:**
 Identify the root causes of performance issues or opportunities.
 Analyze sales data to understand why certain products or regions are underperforming.
+
 **Predictive Analytics:**
 Forecast future sales trends and customer behavior.
 Develop predictive models to optimize inventory levels and pricing strategies.
+
 **Prescriptive Analytics:**
 Recommend actionable insights to improve business performance.
 Identify optimal pricing strategies, promotional campaigns, and inventory management policies.
