@@ -24,7 +24,7 @@ Identify slow-moving and fast-moving products to adjust stock levels.
 Minimize stockouts and overstock situations.
 
 
-**Pricing Strategy Optimization: **
+**Pricing Strategy Optimization:**
 
 Analyze the impact of pricing strategies on sales and revenue.
 Identify optimal pricing points for different product categories and customer segments.
