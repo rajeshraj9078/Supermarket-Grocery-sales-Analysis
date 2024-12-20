@@ -36,6 +36,9 @@ Identify emerging trends and consumer preferences.
 Analyze the impact of external factors like economic conditions and social trends.
 Forecast future market trends to inform strategic decision-making.
 
+![1](https://github.com/user-attachments/assets/0725068a-7dc4-4326-a9fe-c2e95471d6e3)
+
+
 # Data Analysis Techniques:
 
 **Descriptive Analytics:**
